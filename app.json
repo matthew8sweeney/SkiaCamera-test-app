@@ -12,7 +12,8 @@
       "icon": "./assets/expo.icon",
       "infoPlist": {
         "NSCameraUsageDescription": "This app uses the camera"
-      }
+      },
+      "supportsTablet": true
     },
     "android": {
       "package": "test.app.x20260811",
